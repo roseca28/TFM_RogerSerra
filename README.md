@@ -2,7 +2,7 @@
 
 En aquest repositori es poden trobar els diferents scripts modificats i creats per l'execució d'aquest projecte que poden ser públics i que no pertanyen a cap altre projecte, així com aquelles dades que es poden publicar.
 
-## Resum terball
+## Resum treball
 
 S'ha demostrat que l'àmbit de la Intel·ligència Artificial, tot i l'avenç que suposa en l'àmbit tecnològic, comporta una elevada petjada de carboni i que, pel que fa a la sostenibilitat i a l'ecologia, implica un dels punts a millorar. És en aquest context en què, en l'àrea del Deep Learning, s'ha desenvolupat un nou modelatge conegut com a Spiking Neural Network (SNN), que suposa una reducció en les emissions de diòxid de carboni respecte a altres modelitzacions.
 
